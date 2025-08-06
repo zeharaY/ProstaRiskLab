@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+.env/
+.envrc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Data and model files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.h5
+*.hdf5
+*.joblib
+*.pkl
+*.pickle
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# System files
+Thumbs.db
+
+# Other
+*.bak
+*.swp
